@@ -3,6 +3,9 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# nodejs
+src/devicesmanagement/node_modules/
+src/devicesmanagement/.project
 # Package Files #
 *.jar
 *.war
